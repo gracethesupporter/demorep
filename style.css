@@ -1,0 +1,46 @@
+body{
+	padding-left: 30px;
+}
+
+p{
+	padding-top: 3px;
+}
+
+input{
+	width: 60px;
+	margin-right: 10px;
+}
+
+#thatbtn{
+	margin-top: 20px;
+	margin-bottom: 70px;
+	width: 90px;
+}
+.operInp {
+	margin-right: 15px;
+}
+
+#xInput {
+	margin-left: 5px;
+}
+
+#forXbutton {
+	margin-left: 76px;
+}
+
+.spnMRGN {
+	margin-top: 10px;
+}
+
+#mainBtnCalc {
+	width: 100px;
+}
+
+#btnC {
+	width: 120px;
+	margin-top: 15px;
+}
+
+.operInpC {
+	margin-right: 15px;
+}
